@@ -45,4 +45,4 @@ OreSat is a CubeSat-form factor nanosatellite being built to be placed into orbi
 * Have an adjustable power output
 
 ##Notes
-* Assuming linearity is not a design requirement.
+* Linearity is not a design requirement because BPSK modulation is amplitude independent.
