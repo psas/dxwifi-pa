@@ -5,9 +5,10 @@ OreSat is a CubeSat-form factor nanosatellite being built to be placed into orbi
 ##Team Members
 * Andrew Greenberg ([PSAS](http://psas.pdx.edu/) project Manager)
 * Glenn LeBrasseur (RF mentor and consultant)
+* Ben Wilson (Signal Prossessing)
 * Devin  Lorenzen (RF/Analog)
 * Edward Sayers (Embedded Systems)
-* Ben Wilson (Signal Prossessing)
+* Seth Ward (RF/Analog)
 
 ##Project Specifications
 ###Must
