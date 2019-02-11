@@ -1,3 +1,7 @@
+**NOTE: THIS PROJECT IS DEPRECATED. PLEASE SEE the OreSat DxWiFi Project for the latest [hardware](https://github.com/oresat/oresat-dxwifi-hardware) and [software](https://github.com/oresat/oresat-dxwifi-software).**
+
+-----
+
 # dxwifi-pa
 ##Project Overview
 OreSat is a CubeSat-form factor nanosatellite being built to be placed into orbit as part of NASA’s CSLI/ELaNa program. OreSat current secondary mission objective is to be able to communicate via WiFi from space -- specifically, have data be transmitted from a COTS IEEE 802.11b module onboard the CubeSat to an inexpensive “DIY” ground station setup meant for K-12 STEM programs.
